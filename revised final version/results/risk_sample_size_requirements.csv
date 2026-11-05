@@ -1,0 +1,4 @@
+failure_target,candidate_family,zero_event_training_n_required,zero_event_single_test_n_required,model_error_covered
+0.01,26,623,299,False
+0.005,26,1248,598,False
+0.001,26,6251,2995,False

@@ -1,0 +1,6 @@
+event,event_start,snapshot_date,date_precision,paid_nzd,estimated_cost_at_snapshot_nzd,reference_cost_dec2023_nzd,source_url,source_status
+cyclone_gabrielle,2023-02-11,2023-04-01,explicit_as_of,147068198,1155301657,1732616941,https://www.icnz.org.nz/wp-content/uploads/2023/04/ICNZ-Submission-to-Ministerial-Inquiry-into-Land-Use-Slash-5-April-2023.pdf,exact_table
+auckland_anniversary,2023-01-27,2023-06-22,publication_date_proxy,598729857,1659142250,1899026554,https://www.icnz.org.nz/industry/media-releases/2023-climate-disaster-payouts-top-1-billion/,exact_table_snapshot_date_unspecified
+cyclone_gabrielle,2023-02-11,2023-06-22,publication_date_proxy,479180456,1516578384,1732616941,https://www.icnz.org.nz/industry/media-releases/2023-climate-disaster-payouts-top-1-billion/,exact_table_snapshot_date_unspecified
+auckland_anniversary,2023-01-27,2023-12-01,explicit_as_of,1469545124,1899026554,1899026554,https://www.icnz.org.nz/industry/media-releases/insurers-fully-settled-87-gabrielle-and-auckland-anniversary-claims/,exact_table
+cyclone_gabrielle,2023-02-11,2023-12-01,explicit_as_of,1248427749,1732616941,1732616941,https://www.icnz.org.nz/industry/media-releases/insurers-fully-settled-87-gabrielle-and-auckland-anniversary-claims/,exact_table

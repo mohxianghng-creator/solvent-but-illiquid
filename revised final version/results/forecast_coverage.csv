@@ -1,0 +1,3 @@
+policy_name,paths,forecast_horizon,component_quantile,mean_window_coverage,path_cluster_ci95_low,path_cluster_ci95_high,report_posterior_90_coverage,mean_all_prefix_window_coverage,paths_with_any_window_breach_pct,paths_with_any_prefix_breach_pct,any_prefix_breach_upper95_pct
+rule,300,5,0.99,0.9992708333333333,0.9985416666666667,0.9997916666666666,0.8953846153846154,0.99734375,2.3333333333333335,8.666666666666668,11.821635785369994
+mpc,300,3,0.99,0.99890625,0.9982291666666666,0.9994791666666667,0.8953846153846154,0.99796875,4.333333333333334,8.333333333333332,11.444625314144458

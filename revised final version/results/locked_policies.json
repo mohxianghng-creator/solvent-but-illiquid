@@ -1,0 +1,14 @@
+{
+  "rule": {
+    "kind": "rule",
+    "horizon": 5,
+    "quantile": 0.99,
+    "order": "liquid_first"
+  },
+  "mpc": {
+    "kind": "mpc",
+    "horizon": 3,
+    "quantile": 0.99,
+    "order": "liquid_first"
+  }
+}

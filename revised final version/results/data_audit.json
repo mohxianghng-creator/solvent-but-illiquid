@@ -1,0 +1,8 @@
+{
+  "company_source_assertions": 40,
+  "kaikoura_source_assertions": 2,
+  "payment_rows_structurally_validated": 11,
+  "cached_sources_hashed": 15,
+  "scope": "Company fields and one exact event table machine-extracted. Remaining event transcriptions require manual semantic review; hashes do not prove correctness.",
+  "live_report_matches": true
+}

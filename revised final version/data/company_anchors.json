@@ -1,0 +1,17 @@
+{
+  "restricted": 1.6295916460613857,
+  "disclosed_accessible_cash": 13.807421377635052,
+  "initial_tp": 26.41074649754413,
+  "background13": 11.334649332265778,
+  "background26": 16.23802990053852,
+  "background52": 20.829682204266295,
+  "source_discounted_lic": 25.719953589229927,
+  "discount_conversion_rate": 0.03635920717528513,
+  "excluded_negative_pv_bucket": -0.186,
+  "cash_rate": 0.0256,
+  "interest_proxy": 0.03635920717528513,
+  "baseline_yield_spread": 0.01075920717528513,
+  "facility": 0.0,
+  "facility_reason": "No facility inferred from this annual report; absence of disclosure is not proof of absence.",
+  "disclaimer": "Scoped liquidity-pool anchors, not a replica, recommendation or validation of Tower internal policy."
+}

@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+python-docx
+reportlab
+Pillow
+PyMuPDF
+requests

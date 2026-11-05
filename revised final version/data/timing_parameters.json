@@ -1,0 +1,18 @@
+{
+  "main": {
+    "scale_weeks": 35.82728201359733,
+    "shape": 1.720264250320355
+  },
+  "groups": {
+    "nz_weather_2023": {
+      "scale_weeks": 35.82728201359733,
+      "shape": 1.720264250320355
+    },
+    "au_flood_2022": {
+      "scale_weeks": 39.55311000406369,
+      "shape": 1.46384781005778
+    }
+  },
+  "external_kaikoura": "Held-out support/transfer test; not fit as a two-parameter family from one exact point",
+  "warning": "Retrospective reference denominators and aggregation/perimeter differences; not prospective insurer validation"
+}

@@ -1,0 +1,3 @@
+policy_name,selected_cash,status,n,failure_pct,failure_events,upper95_pct,mean_cost,mean_execution,mean_cash_drag,mean_pending_drag,mean_funding,mean_late_claim,truth_insolvency_pct,max_ledger_residual,max_cash_residual,lp_calls,lp_fallbacks,analytic_h3,posterior_rmse,posterior_90_coverage
+rule,20,Training constraint passed; test not used to select,3000,0,0,0.0998079012,0.042490468128,0.00010633545641,0.042334459008,4.9673663908e-05,0,0,0.76666666667,1.7053025658e-13,0,0,0,0,6.3868623068,0.8971025641
+mpc,20,Training constraint passed; test not used to select,3000,0.23333333333,7,0.43782144373,0.04239170643,7.9422025953e-05,0.042274933048,3.7351355833e-05,0,0.001172110632,0.76666666667,1.7053025658e-13,1.1102230246e-16,0,0,2040,6.3868623068,0.8971025641
